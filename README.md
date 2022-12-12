@@ -3,7 +3,6 @@
 <div>
   <a href-"https://beacons.ai/LCS-JNS">
   <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=LCS-JNS&show_icons=true&theme=vue-dark"/>
-  <img height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=LCS-JNS&show_icons=true&theme=vue-dark&layout=compact"/>
 </div>
 <div stryle="display: inline_block"><br>
   <img align="center" alt="Lucas-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
