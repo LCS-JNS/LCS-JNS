@@ -1,7 +1,7 @@
 ## Olá! Me chamo Lucas Gorges
 
 <div>
-  <a href-"https://beacons.ai/LCS-JNS">
+  <a href="https://beacons.ai/LCS-JNS">
   <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=LCS-JNS&show_icons=true&theme=vue-dark"/>
 </div>
 <div stryle="display: inline_block"><br>
