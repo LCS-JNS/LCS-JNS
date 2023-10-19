@@ -1,4 +1,4 @@
-## Olá! Me chamo Lucas Gorges
+## Olá! Me chamo Lucas Jansen Gorges
 
 <div>
   <a href="https://beacons.ai/LCS-JNS">
